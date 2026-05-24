@@ -1,10 +1,11 @@
 # Trabajo Final: Regresión Avanzada
-Maestría en Ciencia de Datos - Universidad Austral
+## **Maestría en Ciencia de Datos - Universidad Austral**
 
-**Alumnos:** Jaime López Garrido y Gabriel Martina
-**Docentes:** Debora Chan y Cecilia Oliva
+##**Alumnos:** Jaime López Garrido y Gabriel Martina
 
-Link al video: https://youtu.be/lx0SYfFx8cE
+##**Docentes:** Debora Chan y Cecilia Oliva
+
+###Link al video: https://youtu.be/lx0SYfFx8cE
 
 En la carpeta "TP_RA_lopez_martina.zip" que se encuentra en este repositorio van a poder encontrar los codigos y data sets utilizados en el trabajo. Porfavor mantener la misma estructura, para no tener problemas en la carga de archivos. Es necesario descargar y descomprimir la misma para correr de forma local.
 
