@@ -8,12 +8,12 @@ para no tener problemas en la carga de archivos.
 
 Es necesario descargar y descomprimir la carpeta para correr de forma local.
 
-TP_RA_Lopez_Martina/
-├── modelo_lineal_multiple/
-│   ├── modelo_lineal_multiple.ipynb
-│   └── 50_Startups_dataset.csv
-└── modelo_regresion_bayesiana/
-    ├── modelo_regresion_bayesiana.ipynb
-    └── 50_Startups_dataset.csv
+    TP_RA_Lopez_Martina/
+    ├── modelo_lineal_multiple/
+    │   ├── modelo_lineal_multiple.ipynb
+    │   └── 50_Startups_dataset.csv
+    └── modelo_regresion_bayesiana/
+        ├── modelo_regresion_bayesiana.ipynb
+        └── 50_Startups_dataset.csv
 
 Muchas Gracias!
