@@ -3,6 +3,8 @@ Maestría en Ciencia de Datos - Universidad Austral
 
 **Alumnos:** Jaime López Garrido y Gabriel Martina
 
+Link al video: https://youtu.be/lx0SYfFx8cE
+
 Estructura de la carpeta con los codigos y data sets respectivos de cada tema. Porfavor mantener la misma estructura,
 para no tener problemas en la carga de archivos.
 
