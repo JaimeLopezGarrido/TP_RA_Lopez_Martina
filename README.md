@@ -14,6 +14,6 @@ Es necesario descargar y descomprimir la carpeta para correr de forma local.
     │   └── 50_Startups_dataset.csv
     └── modelo_regresion_bayesiana/
         ├── modelo_regresion_bayesiana.ipynb
-        └── 50_Startups_dataset.csv
+        └── AmesHousing.csv
 
 Muchas Gracias!
